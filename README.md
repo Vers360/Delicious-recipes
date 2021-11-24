@@ -4,7 +4,7 @@
 * [Technologies](#technologies)
 
 ## General info
-This project is a simple webpage.
+This project is a basic webpage with some recipes.
 	
 ## Technologies
 Project is created with:
